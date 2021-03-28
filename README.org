@@ -1,0 +1,10 @@
+* Competitive Programming
+** [CodeForces Ladders](https://a2oj.com/ladders)
+
+* Documentation
+** [[PlantUML][https://www.planttext.com/]]
+
+* NEWS
+** https://www.ambito.com/
+** https://www.cronista.com/
+** https://www.pagina12.com.ar/
